@@ -124,7 +124,7 @@ This is important if you want to implement recursive sub-procedures:
 
     :::coffeescript
     data:
-        execution is number
+        executions is number
     procedure:
         sub myRecursiveSub
             local data:
